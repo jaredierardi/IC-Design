@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Uses AND and OR gates, with 2 selection and 4 data lines. The selection line's states determine which data line is passed to the output.
 
 ## How to test
 
-Explain how to use your project
+Cycle selection lines through 00, 01, 10, 11. At each state, the output will be the respective data line's state.
 
 ## External hardware
 
